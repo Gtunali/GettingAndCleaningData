@@ -28,10 +28,8 @@ The file run_analysis.R code performs the following steps to read the Human Acti
   * All start with character t in column’s name replaced by Time
   
 6. Take the average of each variable for each activity and each subject and write the tidy data into the file TidyResult.txt
-  > TidyResult
-  # A tibble: 180 x 88
-  # Groups:   subject [30]
-   subject activityCode TimeBodyAcceler… TimeBodyAcceler… TimeBodyAcceler… TimeGravityAcce… TimeGravityAcce… TimeGravityAcce…
+  TidyResult.txt (180 x 88)
+
   
 
 
