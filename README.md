@@ -11,5 +11,5 @@ Files:
     * Appropriately labels the data set with descriptive variable names.
     * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
     
-  2. codeBook.md: a code book that describes the data, the variables and the transformations to produce the tidy set
+  2. CodeBook.md: a code book that describes the data, the variables and the transformations to produce the tidy set
   3. TidyResult.txt: tidy data produced by the transformations by the run_analysisR code
